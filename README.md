@@ -5,4 +5,6 @@ This project uses RFM (Recency, Frequency, Monetary) analysis to segment custome
 ### Tools & Technologies
 
 Power BI, DAX, Power Query, Data Modeling, RFM Analysis
-![Dashboard](Output Image/Image1)
+
+### Output
+![Dashboard](Output Image/Image1.png)
